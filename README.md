@@ -7,7 +7,7 @@ You will need two Ryze Tello EDU drones setup in station mode, an external WiFi 
 
 Watch the [video](https://www.mathworks.com/videos/control-multiple-ryze-tello-edu-drones-in-matlab-1646374241250.html) for additional information about how to use this code.
 
-## MathWorks Products (http://www.mathworks.com)
+## MathWorks Products (https://www.mathworks.com)
 Requires MATLAB release R2020b or newer
 
 [Ryze Tello Drone Support Package]https://www.mathworks.com/hardware-support/tello-drone-matlab.html
